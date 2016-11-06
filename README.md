@@ -1,2 +1,2 @@
 # new_lukante
-My new portfolio website for me
+My new portfolio website, just for everyone.
